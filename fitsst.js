@@ -10,3 +10,6 @@ function updateBalance() {
 
 updateBalance();
 console.log("hello coder army");
+console.log("feature first comment");
+
+console.log("feature second commit");
