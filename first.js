@@ -12,6 +12,7 @@ const second_feature = "my second feature commit"
 const first_bug = "my first bug commit"
 console.log("mege them");
 
-function showname = () {
+function showname() {
     console.log(Arvind);
 }
+showname();
