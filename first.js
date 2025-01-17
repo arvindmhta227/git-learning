@@ -11,3 +11,7 @@ const beast = "my first feature commit"
 const second_feature = "my second feature commit"
 const first_bug = "my first bug commit"
 console.log("mege them");
+
+function showname = () {
+    console.log(Arvind);
+}
